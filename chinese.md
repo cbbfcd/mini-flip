@@ -138,7 +138,7 @@ const flip = new Flip({
 
 在线 demo 列表：
 
-[1. 预览]()
+[1. 预览demo](https://codesandbox.io/s/8y2l40km7l)
 
 ### todo
 
