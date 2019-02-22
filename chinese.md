@@ -58,6 +58,7 @@ const flip = new Flip(config)
 8. Flip.player 获取所有的动画引擎
 
 ⚠️ 可以链式调用：`flip.first().last().invert()`
+
 ⚠️ `first() last() invert() play()`有顺序要求，毕竟叫做 FLIP
 
 ### 如何自定义动画渲染引擎
