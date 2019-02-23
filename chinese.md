@@ -22,6 +22,8 @@
 核心 API 非常的简单，首先需要实例化。
 
 ```js
+import Flip from 'mini-flip'
+
 const flip = new Flip(config)
 ```
 

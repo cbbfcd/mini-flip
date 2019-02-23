@@ -23,6 +23,8 @@ I hope that with the simplest and clearest API and how to use it, I can easily g
 The core API is very simple and needs to be instantiated first.
 
 ```js
+import Flip from 'mini-flip'
+
 const flip = new Flip(config)
 ```
 
