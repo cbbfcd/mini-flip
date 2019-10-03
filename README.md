@@ -1,5 +1,7 @@
 # mini-flip
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cbbfcd/mini-flip.svg)](https://greenkeeper.io/)
+
 > This is a great way to learn FLIP animation technology! 
 > It stems from Google's stop-and-maintain library, unfortunately it has been thrown into the frozen list and can't run.
 
